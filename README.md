@@ -1,16 +1,29 @@
-### Hi there 👋
+## Heyyo! 👋 Welcome to my GitHub! 
 
-<!--
-**mhQ260/mhQ260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter Follow](https://img.shields.io/twitter/follow/mhudyx?style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=mhq260.mhq260)
 
-Here are some ideas to get you started:
+### aboutMe.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const matty = {
+    askMeAbout: ["webdev", "football", "esport", "music", "cycling", "mountains"],
+    technologies: {
+        frontEnd: {
+            css: ["scss", "sass"],
+            js: ["react", "vue"]
+        },
+        backEnd: {
+            js: ["node", "mongodb"],
+            db: ["sql", "mongoose"]
+        }
+    },
+    utilities: {
+           graphics: ["corelDraw", "adobePhotoshop", "adobeXd"],
+           video: ["camtasiaStudio"]
+    }
+};
+```
+<p align="center">
+Check my repos below ⬇️ ⬇️ ⬇️  
+</p>

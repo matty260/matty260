@@ -10,7 +10,7 @@ const matty = {
     askMeAbout: ["webdev", "football", "esport", "music", "cycling", "mountains"],
     technologies: {
         frontEnd: {
-            css: ["scss", "sass"],
+            css: ["scss", "sass", "bem"],
             js: ["react", "vue"]
         },
         backEnd: {
@@ -25,5 +25,5 @@ const matty = {
 };
 ```
 <p align="center">
-Check my repos below ⬇️ ⬇️ ⬇️  
+⬇️ Check my repos below ⬇️ 
 </p>
